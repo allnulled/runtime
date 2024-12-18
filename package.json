@@ -1,0 +1,12 @@
+{
+  "name": "runtime",
+  "version": "1.0.0",
+  "description": "Spawns new processes from JavaScript functions.",
+  "main": "Runtime.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "allnulled",
+  "license": "WTFPL"
+}
